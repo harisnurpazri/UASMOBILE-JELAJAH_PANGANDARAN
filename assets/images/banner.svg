@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A18" stop-opacity="1" />
+      <stop offset="100%" stop-color="#FFD199" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="400" fill="#FCEFE6"/>
+  <rect x="0" y="0" width="1400" height="400" fill="url(#g)" opacity="0.18"/>
+  <g fill="#2B2B2B" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">
+    <text x="40" y="180">Jelajahi Sekarang</text>
+  </g>
+</svg>
