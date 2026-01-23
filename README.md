@@ -75,6 +75,16 @@ Proyek ini dikembangkan sebagai **produk portofolio**, **media pembelajaran Flut
 
 ---
 
+
+## 🔗 Link Demo & Publikasi
+
+### ▶️ Video Demo YouTube  
+Klik untuk melihat demo penggunaan aplikasi:  
+**[Tonton di YouTube](https://youtube.com/shorts/vgBijphfwnk?feature=shared)** 
+
+---
+
+
 ## 🎨 Preview Tampilan Aplikasi
 
 <div align="center">
