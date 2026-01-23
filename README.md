@@ -80,12 +80,44 @@ Proyek ini dikembangkan sebagai **produk portofolio**, **media pembelajaran Flut
 ## 🎨 Preview Tampilan Aplikasi
 
 <div align="center">
-<img src="assets/images/screenshots/home.png" width="240"/>
-<img src="assets/images/screenshots/detail.png" width="240"/>
-<img src="assets/images/screenshots/map.png" width="240"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.04%20PM.jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.09%20PM.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.09%20PM%20(1).jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.09%20PM%20(2).jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.09%20PM%20(3).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.10%20PM.jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.12%20PM.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.12%20PM%20(1).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.13%20PM.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.13%20PM%20(1).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.14%20PM.jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.16%20PM.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.16%20PM%20(1).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.17%20PM.jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.18%20PM%20(1).jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.18%20PM%20(2).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.19%20PM.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.19%20PM%20(1).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.20%20PM%20(1).jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.20%20PM%20(2).jpeg" width="220"/>
+
+<img src="https://raw.githubusercontent.com/harisnurpazri/UASMOBILE-JELAJAH_PANGANDARAN/main/folder-UI/WhatsApp%20Image%202026-01-20%20at%209.01.20%20PM.jpeg" width="220"/>
+
 </div>
 
 ---
+
 
 ## 🧱 Arsitektur & Teknologi
 
