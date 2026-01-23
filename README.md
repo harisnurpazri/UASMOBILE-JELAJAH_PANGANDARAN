@@ -6,8 +6,6 @@ description: Aplikasi mobile Flutter untuk eksplorasi wisata Pangandaran dengan 
 
 <div align="center">
 
-<img src="assets/images/logo.png" width="150" alt="JEPANG Logo"/>
-
 # 🇯🇵 JEPANG
 ### Jelajah Pangandaran
 
